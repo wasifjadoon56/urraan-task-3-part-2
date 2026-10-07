@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 200vh
+}
+.header{
+    background-color: rgb(138, 4, 4);
+    height: 70vh;
+    
+    
+}
+.pic{
+    padding-left: 50px;
+}
+.pic img{
+    width: 120px;
+}
+.text{
+    padding-left: 50px;
+    
+}
+.text h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    margin-top: 10px;
+}
+.text h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.text p{
+    color: white;
+    padding-right: 130px;
+    margin-top: 20px;
+}
+.club1{
+    display: flex;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+.img{
+    padding-top: 10px;
+}
+.content{
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.section{
+    height: 50vh;
+}
+.text1 h4{
+    padding-left: 10px;
+    color: rgb(148, 4, 4);
+}
+.text1 h5{
+    padding-left: 30px;
+    
+}
+.img1 img{
+    width: 100px;
+}
+.img img{
+    width: 25px;
+}
+.img1{
+    margin-top: 20px;
+}
+.club1img{
+    display: flex;
+    justify-content: space-around;
+}
+.img2{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.text2 h4{
+    padding-left: 10px;
+    color: rgb(148, 3, 3);
+}
+.text2 h5{
+    padding-left: 30px;
+    
+}
+.img2 img{
+    width: 100px;
+}
+.img3{
+    margin-top: 20px;
+    padding-left: 60px;
+}
+.text3 h4{
+padding-left: 10px;
+ color: rgb(148, 3, 3);
+}
+.text3 h5{
+    padding-left: 30px;
+}
+.img3 img{
+    width: 100px;
+}
+.img4{
+    margin-top: 20px;
+    padding-left: 60px;
+}
+.text4 h4{
+    padding-left: 10px;
+    color: rgb(148, 3, 3);
+}
+.text4 h5{
+    padding-left: 30px;
+}
+.img4 img{
+    width: 100px;
+}
+.img5{
+   margin-top: 20px;
+   padding-left: 60px;
+}
+.text5 h4{
+    padding-left: 10px;
+    color: rgb(148, 3, 3);
+}
+.text5 h5{
+    padding-left: 30px;
+}
+.img5 img{
+    width: 100px;
+}
+.footer{
+    background-color: rgb(134, 2, 2);
+    height: 45vh;
+    display: flex;
+    padding-left: 10%;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+.footer h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+}
