@@ -12,13 +12,13 @@
     
 }
 .pic{
-    padding-left: 50px;
+    padding-left: 100px;
 }
 .pic img{
     width: 120px;
 }
 .text{
-    padding-left: 50px;
+    padding-left: 100px;
     
 }
 .text h1{
@@ -33,13 +33,15 @@
 }
 .text p{
     color: white;
-    padding-right: 130px;
+    padding-right: 200px;
     margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
 }
 .club1{
     display: flex;
-    padding-left: 50px;
-    margin-top: 20px;
+    padding-left: 100px;
+    margin-top: 50px;
 }
 .img{
     padding-top: 10px;
@@ -48,6 +50,9 @@
     padding-left: 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+}
+.content h1{
+    font-size: 50px;
 }
 .section{
     height: 50vh;
@@ -64,14 +69,17 @@
     width: 100px;
 }
 .img img{
-    width: 25px;
+    width: 35px;
 }
 .img1{
     margin-top: 20px;
+    margin-left: 60px;
 }
 .club1img{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    gap: 85px;
+    padding-left: 25px;
 }
 .img2{
     margin-top: 20px;
